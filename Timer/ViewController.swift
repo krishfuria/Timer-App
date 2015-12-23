@@ -12,9 +12,9 @@ class ViewController: UIViewController {
     
     var timer  = NSTimer()
     
-    var hour = 2
-    var min = 58
-    var sec = 55
+    var hour = 0
+    var min = 0
+    var sec = 0
     
     @IBOutlet var timerLabel: UILabel!
     
